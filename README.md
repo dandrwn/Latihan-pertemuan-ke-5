@@ -13,7 +13,7 @@ KELAS   : TI.20.B1 <br>
 ## Latihan-pertemuan-ke-5
 Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata dengan Python (Seperti Gambar dibawah ini):
 ![2020-11-01](https://user-images.githubusercontent.com/73043248/97795916-99ded600-1c3e-11eb-8f95-b2704cb29aa8.png)
-klik link berikut ([Tugas 5 ]() <br>
+klik link berikut ([Tugas 5 ](pertemuan-ke-5.py) <br>
 ``` python
 
 print("Name: ")
