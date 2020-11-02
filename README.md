@@ -91,7 +91,7 @@ print("Y")
 print("Z")
 ```
 * fungsi penggunaan **end=" "** sebagai penambahan karakter di akhir<br>
-Contoh hasil input di atas yang menggukana fungsi **end=" "**
+Contoh hasil input di atas yang menggukana fungsi **end=" "** <br>
 ![hasil](gambar/hasil-dari-end=.png) <br>
 
 * untunk penggunaan syntax **print()** hanya menghasilkan sebuah output biasa <br>
