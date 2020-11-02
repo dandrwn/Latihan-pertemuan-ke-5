@@ -9,6 +9,7 @@ KELAS   : TI.20.B1 <br>
 | NO | DESCRIPTION | LINK |
 | ---- | ----- | ----|
 | 1 | Tugas Pertemuan 5 | [CLICK HERE](#Latihan-pertemuan-ke-5) |
+| 2 | Tugas Pertemuan 6 | [CLICK HERE](#Latihan-pertemuan-ke-6) |
 
 ## Latihan-pertemuan-ke-5
 Pada pertemuan 5 Bahasa Pemrograman, saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata dengan Python (Seperti Gambar dibawah ini):
@@ -70,7 +71,6 @@ hasil dari inputan [di atas](#Latihan-pertemuan-ke-5)
 
 
 ## Latihan-pertemuan-ke-6
-
 dalam pertemuan ke 6 ini saya di berikan tugas yaitu: <br>
 ## lab1
 ![hasil](gambar/lat1.png) <br>
